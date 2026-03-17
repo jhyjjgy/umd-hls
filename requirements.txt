@@ -1,0 +1,6 @@
+requests
+pyperclip
+pywebview
+playwright
+yt-dlp
+rich
