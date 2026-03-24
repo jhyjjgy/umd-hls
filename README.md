@@ -44,7 +44,7 @@ once everything is installed, you can run umd.exe and begin downloading!
 
 ## contact
 
-if you have any questions or suggestments for future releases, feel free to contact me on discord:
+if you have any questions or suggestions for future releases, feel free to contact me on discord:
 
 ```bash
 jhyjjgy
